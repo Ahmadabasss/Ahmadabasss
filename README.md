@@ -21,10 +21,10 @@
 </div>
  
 <div align="center"> 
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:ahmadabbass99999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmad-abbas-2557252a3" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   
