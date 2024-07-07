@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **a Car Rental Shop**
  
- 🌱 I’m currently learning **React, Node, Mongo**
+ 🌱 I’m currently learning **React, Spring Boot, MySql**
 
-💬 Ask me about **Node.js, React, Firebase, and my favorite language, JavaScript... or anything [here](https://github.com/Ahmadabasss/Ahmadabasss/issues)**
+💬 Ask me about **Spring Boot, React, MySql, and my favorite language, JavaScript... or anything [here](https://github.com/Ahmadabasss/Ahmadabasss/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
